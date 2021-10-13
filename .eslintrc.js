@@ -8,5 +8,6 @@ module.exports = {
   rules: {
     'react/jsx-filename-extension': ['error', { extensions: ['.js', '.jsx'] }],
     'linebreak-style': ['error', 'windows'],
+    'no-console': 'off',
   },
 };
